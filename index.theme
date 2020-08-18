@@ -1,0 +1,5 @@
+[theme]
+name=womi
+description=lightdm-theme
+engine=lightdm-webkit2-greeter
+url=index.html
